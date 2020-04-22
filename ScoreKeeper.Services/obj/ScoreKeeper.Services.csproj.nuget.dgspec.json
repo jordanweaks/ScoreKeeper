@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Services\\ScoreKeeper.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.DataLayer\\ScoreKeeper.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.DataLayer\\ScoreKeeper.DataLayer.csproj",
+        "projectName": "ScoreKeeper.DataLayer",
+        "projectPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.DataLayer\\ScoreKeeper.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Jordan.Weaks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jordan.Weaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj": {
+                "projectPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj",
+        "projectName": "ScoreKeeper.Entity",
+        "projectPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj",
+        "packagesPath": "C:\\Users\\Jordan.Weaks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jordan.Weaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Services\\ScoreKeeper.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Services\\ScoreKeeper.Services.csproj",
+        "projectName": "ScoreKeeper.Services",
+        "projectPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Services\\ScoreKeeper.Services.csproj",
+        "packagesPath": "C:\\Users\\Jordan.Weaks\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jordan.Weaks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.DataLayer\\ScoreKeeper.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.DataLayer\\ScoreKeeper.DataLayer.csproj"
+              },
+              "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj": {
+                "projectPath": "C:\\Users\\Jordan.Weaks\\Documents\\Git\\ScoreKeeper\\ScoreKeeper.Entity\\ScoreKeeper.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

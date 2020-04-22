@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ScoreKeeper.DataLayer\ScoreKeeper.DataLayer.csproj" />
+    <ProjectReference Include="..\ScoreKeeper.Entity\ScoreKeeper.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

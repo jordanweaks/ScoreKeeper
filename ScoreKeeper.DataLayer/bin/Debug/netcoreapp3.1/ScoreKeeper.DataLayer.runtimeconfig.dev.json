@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Jordan.Weaks\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Jordan.Weaks\\.nuget\\packages"
+    ]
+  }
+}

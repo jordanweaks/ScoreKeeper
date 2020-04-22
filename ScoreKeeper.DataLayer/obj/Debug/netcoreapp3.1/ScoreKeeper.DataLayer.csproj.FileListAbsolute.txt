@@ -1,0 +1,15 @@
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.deps.json
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.runtimeconfig.json
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.runtimeconfig.dev.json
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.dll
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.pdb
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.Entity.dll
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\bin\Debug\netcoreapp3.1\ScoreKeeper.Entity.pdb
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.csprojAssemblyReference.cache
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.AssemblyInfo.cs
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.csproj.CopyComplete
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.dll
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.pdb
+C:\Users\Jordan.Weaks\Documents\Git\ScoreKeeper\ScoreKeeper.DataLayer\obj\Debug\netcoreapp3.1\ScoreKeeper.DataLayer.genruntimeconfig.cache
